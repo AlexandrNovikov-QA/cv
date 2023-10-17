@@ -3,7 +3,7 @@ body {
   background-image: url('https://catherineasquithgallery.com/uploads/posts/2021-02/1614428670_17-p-oboi-na-aifon-temnii-fon-19.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: lime;
+  background-color: ;
   color: orange;
   display: flex;
   flex-direction: column;
@@ -13,37 +13,37 @@ body {
 }
 
 .header {
-  margin: 50px 0;
+  margin: 40px 0;
 }
 
 .header__avatar {
-  border-radius: 60%;
+  border-radius: 50%;
 }
 
 .header__title {
-  margin: 40px 0 20px 0;
-  font-size: 42px;
+  margin: 30px 0 10px 0;
+  font-size: 32px;
   line-height: 1.2;
   font-family: "Helvetica Neue";
 }
 
 .header__subtitle {
   color: orange;
-  font-size: 26px;
+  font-size: 16px;
   line-height: 1.4;
   margin: 0;
 }
 
 .links {
-  width: 330px;
-  margin-bottom: 50px;
+  width: 320px;
+  margin-bottom: 40px;
 }
 
 .links__header {
   font-family: "Helvetica Neue";
-  font-size: 34px;
+  font-size: 24px;
   line-height: 1.4;
-  margin: 0 0 25px 0;
+  margin: 0 0 15px 0;
 }
 
 .links__container {
